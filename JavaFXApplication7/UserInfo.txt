@@ -1,0 +1,6 @@
+User name : TextField@4d8aaec1[styleClass=text-input text-field]
+User Password : PasswordField@57533785[styleClass=text-input text-field password-field]
+Credit Card Number : null
+Expiry Date : null
+CVV : null
+---------------------------------------------------------------------------------------
